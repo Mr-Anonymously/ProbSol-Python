@@ -3,3 +3,9 @@ Python
 Pycache
 modified
 
+Version Conrol System
+
+Git and Github
+
+Virtual Studio Code
+
